@@ -1,3 +1,10 @@
+---
+title: "テスト"
+emoji: ":dragon:" # tech: ":dragon:" / :ide: ":unicorn:"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["markdown","aws"]
+published: false
+---
 # 見出し 1
 ## 見出し 2
 これは本文です
